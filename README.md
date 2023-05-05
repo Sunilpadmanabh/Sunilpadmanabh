@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sunilpadmanabh
 - 👀 I’m interested in coding.
-- 🌱 I’m Working sap-hybris CX-Developer. 
+- 🌱 I’m Currently working as sap-hybris CX-Developer. 
 - 💞️ I’m looking to collaborate on java and other technologies.
 - 📫 You to reach me: padmanabhsunil@gmail.com
 
